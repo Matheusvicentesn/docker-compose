@@ -19,7 +19,7 @@ POSTGRES está com permanência de dados e a base de dados está localizada na p
 
 
 ## Rodando projeto
-Antes de rodar idependente do sistema operacional é necessário já ter instalado Docker Docker Compose e Node.
+Antes de rodar independente do sistema operacional é necessário já ter instalado Docker Docker Compose e Node.
 ### Clonando repositório
 
 ```bash
